@@ -1,2 +1,2 @@
-[links](notes/links)\
-[projects](notes/projects)
+[links](links)\
+[projects](projects)
