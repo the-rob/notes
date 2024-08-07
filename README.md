@@ -1,2 +1,2 @@
-[links](/links)\
-[projects](/projects)
+[links](notes/links)\
+[projects](notes/projects)
