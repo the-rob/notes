@@ -1,1 +1,2 @@
-# notes
+[links]('./links')
+[projects]('./projects')
